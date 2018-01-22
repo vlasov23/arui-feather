@@ -7698,9 +7698,9 @@ libmime@3.0.0:
     libbase64 "0.1.0"
     libqp "1.1.0"
 
-libphonenumber-js@0.4.49:
-  version "0.4.49"
-  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-0.4.49.tgz#ec002c6380991e7a0c5c0945bc24ad2eee06f157"
+libphonenumber-js@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.0.3.tgz#2b730314fb0d4773d513c6a4b0f0815a5d7298c2"
   dependencies:
     babel-runtime "^6.6.1"
     bluebird "^3.4.6"
